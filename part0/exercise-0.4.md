@@ -1,4 +1,3 @@
-```mermaid
 sequenceDiagram
     actor user
     participant browser
@@ -61,4 +60,3 @@ sequenceDiagram
 
     browser -->> user : notes page
     deactivate browser
-```
