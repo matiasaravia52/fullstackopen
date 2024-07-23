@@ -3,9 +3,6 @@ import Header from './components/Header'
 import Total from './components/Total'
 
 function App() {
-
-
-
   const course = {
     name: 'Half Stack application development',
     parts: [
